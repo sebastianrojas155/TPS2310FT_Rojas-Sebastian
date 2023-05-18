@@ -43,7 +43,7 @@ tenemos una horas  minutos segundos y dentificamos las variables tener encuenta 
 y cuando pasa 24 hora vuelve al principio..
 
 ## Estructuras de un control
-nos permite controlar  las decisiones y funcionamientoas en nuetsros flujos de trabajos tenemos condicionales y los ciclos if, else,  switch,  try, catch, condicionales ciclos for, while, Do, while. 
+nos permite controlar  las decisiones y funcionamientoas en nuetsros flujos de trabajos tenemos condicionales y los ciclos if, else,  switch,  try, catch, condicionales ciclos for, while, Do, while.
 
 # Condicionales 
 
