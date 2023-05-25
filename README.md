@@ -87,7 +87,7 @@ prpiedad distributiva: la suma de dos numeros multiplicados el tercer numero es 
 |propiedad de identidad: El producto  cualquier  numwero y uno da  como resultado a ese mismo número.   
 
 ## Sistema binario 
-Es ta compuesto de numero de 1 a 0 representa precencia de una corriente y ausencia se puede utilizar como casos positios y negativos y se puede representar en graficaas  y se pueden ver en distintos operadores 
+Es ta compuesto de numero de 1 a 0 representa precencia de una corriente y ausencia se puede utilizar como casos positios y negativos y se puede representar en graficaas  y se pueden ver en distintos operadores.
 
 
 ### Que es el sistema binario 
