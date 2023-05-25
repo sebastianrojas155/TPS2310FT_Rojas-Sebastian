@@ -95,6 +95,16 @@ se puedenn utilizar comon divicion con 2  y de ese resultado puede salir un sist
 
 ### Convercion entre binario y decimal 
 
+## suma y resta de decimales 
+tenemos 4 reglas para los codigo binarios por ejemplo:
+0+0=0
+1+0=1 + 110
+0+1=1   001
+1+1=0   111 
+##  divicion y multiplicacion de decimales 
+si multiplicamos 0*0=0; 0*1=0 1*0=0, 1*1=1
+dividendo 10110
+divisor 10 
 ## Operadores
 
 ### Que son las tablas de verdad 
