@@ -84,7 +84,7 @@ Es un proceso como una suma con 2 valores pero hay 2 entradas que  es el numero 
 propiedad conmutativa 
 propiedad asociativaa: esta propiedad nos dice que si se suma y se divide da el mismno resultado (3+2+5 10) 
 prpiedad distributiva: la suma de dos numeros multiplicados el tercer numero es igual a la suma de cada sumando multiplicado por el tercer numero
-|propiedad de identidad: El producto  cualquier  numwero y uno da  como resultado a ese mismo número.   
+|propiedad de identidad: El producto  cualquier  numwero y uno da  como resultado a ese mismo número.
 
 ## Sistema binario 
 Es ta compuesto de numero de 1 a 0 representa precencia de una corriente y ausencia se puede utilizar como casos positios y negativos y se puede representar en graficaas  y se pueden ver en distintos operadores.
