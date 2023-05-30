@@ -105,14 +105,34 @@ tenemos 4 reglas para los codigo binarios por ejemplo:
 si multiplicamos 0*0=0; 0*1=0 1*0=0, 1*1=1
 dividendo 10110
 divisor 10 
-## Operadores
+#  Operadores
 
 ### Que son las tablas de verdad 
-
+Son una herramienta que nos ayuda a determinar cuales son las condiciones necesarias para que dena verdadero o válido devuelve el valor A -A 
+ conjucion es verdadero A  B AAB 
+ DISYUNÍON A B AVB  SERA VERDADEO CUANDO SUS PROPOCISIONES ES VERDAERA DE LO CONTRARIO ES FALSO 
 ### Operadores logicos
-
+Nos permite tener un resultado positivo y negativo 
+PROPOSITO 
+Devuelve true cuando expresa 1 y 2 son verdaderas y lo contrario es negativo 
+OPERADOR, Xor 
  ### Operadorews aritmeticos 
-
+nos permite identificar grupos de trabajos 
+OPERADORES:+-*/
 ### Operadores de comparacion 
-
+=
 ## Reto 0: Identifica 
+
+### algoritmos y diagramas de flujo
+es una serie e pasos para cumplir un objetivo de mejor forma  apartir de un analizis detallado 
+
+## que es un algoritmo
+es una serie e pasos para cumplir un objetivo de mejor forma  apartir de un analizis detallado  para hacer muchas sitaciones  
+## como resover mis algoritomos
+ 
+### hay dinero en el cajero electronico
+
+## reto: 2 Buscador 
+buscaremos ciudades que coincidan con nuestro pais para hacer este proceso de algoritmo  
+
+## Reto 3: login de uduario
