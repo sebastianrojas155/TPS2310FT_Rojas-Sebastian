@@ -7,7 +7,7 @@
 ### Inicia tu camino como frontend developer
 
 ### ¿Qué es HTML y CSS? ¿Para qué sirven?
-
+html: es un lenguaje marcado de iper texto ccs hojas ddr eapina en cascada irbe para dar texto 
 ### Clases del Curso de Frontend Developer
 
 ### Motores de render: de archivos a píxeles
