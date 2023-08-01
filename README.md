@@ -1,4 +1,4 @@
-# TPS2310FT_Rojas-Sebastian
+git # TPS2310FT_Rojas-Sebastian
 
 el comando "pwd" sirve para ver la ubicacion del archivo
 
@@ -136,3 +136,25 @@ es una serie e pasos para cumplir un objetivo de mejor forma  apartir de un anal
 buscaremos ciudades que coincidan con nuestro pais para hacer este proceso de algoritmo  
 
 ## Reto 3: login de uduario
+
+
+
+#### 1/08/23 videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
