@@ -11,10 +11,17 @@ html: es un lenguaje marcado de iper texto ccs hojas ddr eapina en cascada irbe 
 ### Clases del Curso de Frontend Developer
 
 ### Motores de render: de archivos a píxeles
-
+pude pntar pxeles como tiene 5 pasos 
+1pasar archivos a objetos 
+2calcula el estitulo correpondintes a cadda 
+3 clacula las dimenciones de cad noob
+4 pinta las diferentes cajas
+toma las capas y las comvierte en imagen  dom y se divide en 2 graneds grupos 
 
 # Maquetación con HTML
+
 ### Anatomía de un documento HTML y sus elementos
+
 ### ¿Qué es HTML semántico?
 ### Etiquetas de HTML más usadas
 # Maquetación con CSS
