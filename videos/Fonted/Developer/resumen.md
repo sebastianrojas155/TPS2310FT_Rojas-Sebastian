@@ -36,6 +36,7 @@ Layout,textos,formularios,enlaces,imagenes y videos,listas
 ### Tipos de selectores: pseudoclases y pseudoelementos
 estructura y  podemos agregar las propirdaes que queramos 
 ### Cascada y especificidad en CSS
+cascada i¿significa el orden de las reglas en css inporta 
 ### Tipos de display más usados: block, inline e inline-block
 ### Tipos de display más usados: flexbox y CSS grid
 ### Modelo de caja

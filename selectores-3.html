@@ -14,9 +14,19 @@
         p::first-letter{
             color:darkred
         }
+       p::before {
+      content: "🐊";
+        }
+        p::after {
+            content:"🐲";
+        }
         div p:nth-child(2){
             color:cornflowerblue
         }
+        ::placeholder{
+            color: aqua;
+        }
+    
     </style>
 </head>
 <body>
@@ -26,5 +36,6 @@
         <p>master</p>
         <p>lo mejor</p>
     </div>
+    <input type="text" placeholder="name">
 </body>
 </html>
