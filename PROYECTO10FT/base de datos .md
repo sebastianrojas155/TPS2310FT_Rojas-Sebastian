@@ -12,7 +12,19 @@
 ### Múltiples muchos
 ### Diagrama ER
 ### Diagrama Físico: tipos de datos y constraints
+  tenemos dos parametros para los decimales para poder hacer decimales
+  nos permite ener una fecha de publicacion y podemos tener diferentes tipos de datos,pueden tener restricciones.
+
+  °not mull:se asegura que la colummna no tenga valores nulos
+
+°unique:se asegura que cada valor  en la colummna nose repita 
+
+  °primary key:es una combinacion de not null y uniquew 
+
+  °check:se asegura que el valor en la colummna cumpla una condiciondad.
+
 ### Diagrama Físico: normalización
+
 ### Formas normales en Bases de Datos relacionales
 ### Diagrama Físico: normalizando Platziblog
 # RDBMS (MySQL) o cómo hacer lo anterior de manera práctica
